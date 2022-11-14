@@ -1,2 +1,19 @@
-# the_mind
-My own ponderings, on classifying parts the mind and the world.
+# The Mind
+My own ponderings, on classifying parts of the mind and the world.
+
+## Basic assumptions/definitions
+1. ***Everything*** is a model. You are a model, the world you see is a model, math is a model, numbers are models, contexts/perspectives/categories/groups/objects/systems are models, the air is a model, words are models... its models all the way up, and all the way down.
+2. Truth, is only valid within the model that it is defined in. See [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/Gödel%27s_incompleteness_theorems). (It is invalid to validate a system using the system itself.)
+3. There are models which describe **all** models. Those types of models are the closest you can come to absolute truth. Parts of this list is a description of such a model. 
+4. A model of a thing is a formula that defines/describes the things properties, and/or how it behaves.
+
+## Other things that tend to confuse people 
+* [Necessary causes](https://en.wikipedia.org/wiki/Causality#Necessary_and_sufficient_causes) are the only true causes, they are the only types of causes that allows one to make deductive reasoning. The other types of causes are not causes, but correlations.
+* ***Representationalism***: Each of us live, not in the physical world, but in a simulation that uses models to represent parts of the physical world. A simulation that is being executed by the brain of a primate(Homo sapiens).
+* Personality, is a low resolution model of how you tend to behave based on your previous behaviour. The most well established personality system is "big five". It is fairly intuitive when you learn it. (Personal opinion: Openness to experience is the most important factor when it comes to people being interesting.)
+* Causal closure: in a causally closed system only things from inside the system can cause things to happen in the system. You can however map other causal systems on top of a causally closed system. So that the causal boundaries project down to the lower system. Causal closure is maintained and cause and effect is valid in both the top and lower causal system.
+* Free will and choice: the description of choice and its effects is a causal system layered on top of the seemingly causally closed physical world. If you have free will or not simply depends on how you define yourself.
+* Math: only math that is implementable is valid, aka constructive math. When people start doing math with [infinity](https://en.wikipedia.org/wiki/Infinity) contradictions start to appear.
+* ADHD, is a tendency to have problems getting into and maintaining longer sessions of concentration, and a tendency to constantly be active and moving around and doing short-term satisfaction things. At one level seemingly caused by the mind constantly craving more stimulation or inversely the mind feeling bored/unsatisfied whenever new stimulation is not present.
+* Mental illness is defined in the [DSM](https://en.wikipedia.org/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders) as certain behaviour. ie. Psychologists definitions of mental illness define nothing mental.
+* The cause of mental illness as described on the inter human layer: not thinking "usefully" about how the world functions, and then behaving strange due to not thinking "usefully". Why a person are not thinking "usefully" can be described in various ways sometimes explanations made in a different causal system are used where one defines the cause with chemical imbalances in the brain, sometimes explanations with personal trauma is used.
