@@ -8,7 +8,7 @@ My own ponderings, on classifying parts of the mind and the world.
 4. A model of a thing is a formula that defines/describes the things properties, and/or how it behaves.
 
 ## Other things that tend to confuse people 
-* [Necessary causes](https://en.wikipedia.org/wiki/Causality#Necessary_and_sufficient_causes) are the only true causes, they are the only types of causes that allows one to make deductive reasoning. The other types of causes are not causes, but correlations.
+* [Necessary causes](https://en.wikipedia.org/wiki/Causality#Necessary_and_sufficient_causes) are the only true causes, they are the only types of causes that allows one to use deductive reasoning. The other types of causes are not causes, but correlations.
 * ***Representationalism***: Each of us live, not in the physical world, but in a simulation that uses models to represent parts of the physical world. A simulation that is being executed by the brain of a primate(Homo sapiens).
 * Personality, is a low resolution model of how you tend to behave based on your previous behaviour. The most well established personality system is "big five". It is fairly intuitive when you learn it. (Personal opinion: Openness to experience is the most important factor when it comes to people being interesting.)
 * Causal closure: in a causally closed system only things from inside the system can cause things to happen in the system. You can however map other causal systems on top of a causally closed system. So that the causal boundaries project down to the lower system. Causal closure is maintained and cause and effect is valid in both the top and lower causal system.
