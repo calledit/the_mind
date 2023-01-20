@@ -12,8 +12,8 @@ My own ponderings, on classifying parts of the mind and the world.
 * ***Representationalism***: Each of us live, not in the physical world, but in a simulation that uses models to represent parts of the physical world. A simulation that is being executed by the brain of a primate(Homo sapiens).
 * Personality, is a low resolution model of how you tend to behave based on your previous behaviour. The most well established personality system is "big five". It is fairly intuitive when you learn it. (Personal opinion: Openness to experience is the most important factor when it comes to people being interesting.)
 * Causal closure: in a causally closed system only things from inside the system can cause things to happen in the system. You can however map other causal systems on top of a causally closed system. So that the causal boundaries project down to the lower system. Causal closure is maintained and cause and effect is valid in both the top and lower causal system.
-* Reality: the state of things as they actually exist, as opposed to an idealistic or notional idea of them.
-* Real: Things that can have causal effect on other things in reality.
+* Real: Things that can have causal effect on other things that are real.
+* Reality: The state of all real things.
 * Magic: Things that can **not** exist in reality, due to contradicting reality in some way.
 * Illusions: Things that seam like one thing, but are another thing.
 * Choice: The description of choice and its effects is a causal system layered on top of the seemingly causally closed physical world.
