@@ -5,7 +5,7 @@ My own ponderings, on classifying parts of the mind and the world.
 1. ***Everything*** is a model. You are a model, the world you see is a model, math is a model, numbers are models, contexts/perspectives/categories/groups/objects/systems are models, the air is a model, words are models... its models all the way up, and all the way down.
 2. Truth, is only valid within the model that it is defined in. See [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/Gödel%27s_incompleteness_theorems). (It is invalid to validate a system using the system itself.)
 3. There are models which describe **all** models. Those types of models are the closest you can come to absolute truth. Parts of this list is a description of such a model. 
-4. A model of a thing is a formula that defines/describes the things properties, and/or how it behaves.
+4. A model of a thing is a formula that defines/describes the things properties, and/or how it behaves. A model can be consistent(ie the model is consistent with itself) or inconsistent(it contradicts itself). All models have validity, validity is a property that describes how well the model models the thing it is modelling(basically how accurate the models is).
 
 ## Other things that tend to confuse people 
 * [Necessary causes](https://en.wikipedia.org/wiki/Causality#Necessary_and_sufficient_causes) are the only proper causes, they are the only types of causes that allows one to use deductive reasoning. "Sufficient causes" are useful when telling storys, but should not be mixed up with "necessary causes" when one is trying to come to valid conclusions about the nature of things.
