@@ -2,12 +2,15 @@
 My own ponderings, on classifying parts of the mind and the world.
 
 ## Basic assumptions/definitions
-1. ***Everything*** is a model. You are a model, the world you see is a model, math is a model, numbers are models, contexts/perspectives/categories/groups/objects/systems are models, the air is a model, words are models... its models all the way up, and all the way down.
-2. Truth, is only valid within the model that it is defined in. See [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/Gödel%27s_incompleteness_theorems). (It is invalid to validate a system using the system itself.)
-3. There are models which describe **all** models. Those types of models are the closest you can come to absolute truth. Parts of this list is a description of such a model. 
+1. ***Everything*** is a model. You are a model, the things you see with your perception are models that your unconscious uses to grasp the world, math is a model, numbers are models, contexts/perspectives/categories/groups/objects/systems are models, the air is a model, words are models... its models all the way up, and all the way down. 
+2. Truth, is only valid within the model that it is defined in. See [Gödel's incompleteness theorem](https://en.wikipedia.org/wiki/Gödel%27s_incompleteness_theorems). (It is invalid to validate a system using the system itself.)
+3. There are models which describe **all** models. Those types of models is in a sense the closest you can come to absolute truth. Parts of this list is a description of such a model. 
 4. A model of a thing is a formula that defines/describes the things properties, and/or how it behaves. A model can be consistent(ie the model is consistent with itself) or inconsistent(it contradicts itself). All models have validity, validity is a property that describes how well the model models the thing it is modelling(basically how accurate the models is).
 
 ## Other things that tend to confuse people 
+* The unconscious: processes in you and your body that you are not directly aware of.
+* The collective unconscious: processes inside and outside of your body that you are not directly aware of. Parts of the collective unconscious is simply socital patterns.
+* Process: Terminology describing patterns of things leading somewere.
 * [Necessary causes](https://en.wikipedia.org/wiki/Causality#Necessary_and_sufficient_causes) are the only proper causes, they are the only types of causes that allows one to use deductive reasoning. "Sufficient causes" are useful when telling storys, but should not be mixed up with "necessary causes" when one is trying to come to valid conclusions about the nature of things.
 * ***Representationalism***: Each of us live, not in the physical world, but in a simulation that uses models to represent parts of the physical world. A simulation that is being executed by the brain of a primate(Homo sapiens).
 * Personality, is a low resolution model of how you tend to behave based on your previous behaviour. The most well established personality system is "big five". It is fairly intuitive when you learn it. (Personal opinion: Openness to experience is the most important factor when it comes to people being interesting.)
