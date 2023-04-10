@@ -1,6 +1,32 @@
 # The Mind
 My own ponderings, on classifying parts of the mind and the world.
 
+## Human perception
+Humans have a brain that is feed with signals that encode information about the world. These signals are acumulated, processed and catagorized. This activity is what allows human perception to exist.
+
+To deepen the understanding of this phenomena we need a framework that describe this activity. I here propose a framework that has 5 key descriptions which i think are helpfull.
+
+
+
+| Layer              | Desription                                                                         |
+| ------------------ | ---------------------------------------------------------------------------------- |
+| Physical universe  | As best desribed by the standard model                                             |
+| Sensor input       | Electrical signals from sensors(ears, eyes, nose. etc) detecting light, sound,...  |
+| Model worldview    | The model of the world as the unconscious mind sees it. Basically a latent space.  |
+| World as presented | The word as the perciver sees it. Presented to the perciver as perceptions.        |
+| Perciver           | The conscious perciver (you reading this for example)                              |
+
+
+### Physical universe
+The physical universe is to complex for the human mind to comprehend in its entirety. The best descripions we have of what it is and how it "looks" is the standard model. Which can describe interactions betwen a few paricles in super computers. But the physical universe consists of contless particles. In such numbers that it is completly unimaginable. 
+Layer 1,2 and 3 can be seen as proper layers, they are in some sense abstraction layers built ontop of each other.
+
+Layer 4 and 5 can in a sense be said to operate within layer 3.
+
+The world as the human consciousness perceives it is a representation manufactured by fitting sensory input to the model worldview.
+Thse are the layers of the framework
+
+
 ## Basic assumptions/definitions
 1. ***Everything*** is a model. You are a model, the things you see with your perception are models that your unconscious uses to grasp the world, math is a model, numbers are models, contexts/perspectives/categories/groups/objects/systems are models, the air is a model, words are models... its models all the way up, and all the way down. 
 2. Truth, is only valid within the model that it is defined in. See [Gödel's incompleteness theorem](https://en.wikipedia.org/wiki/Gödel%27s_incompleteness_theorems). (It is invalid to validate a system using the system itself.)
