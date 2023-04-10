@@ -37,7 +37,7 @@ This is what the perciver see, in a sense it is a slice/a small part of the mode
 The world as the human consciousness perceives it is a representation manufactured by fitting sensory input to the model worldview.
 In psychology this fitting of sensory input is often talked about as top-down processing.
 
-The work on this framework is not done and more will follow... if you want to read more about similar things look up Joscha Bach.
+*The work on this framework is not done and more will follow... if you want to read more about similar things look up Joscha Bach.
 
 
 ## Basic assumptions/definitions for a sane mind
