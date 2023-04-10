@@ -4,28 +4,28 @@ My own ponderings, on classifying parts of the mind and the world.
 ## Human perception
 Humans have a brain that is feed with signals that encode information about the world. These signals are acumulated, processed and catagorized. This activity is what allows human perception to exist.
 
-To deepen the understanding of this phenomena we need a framework that describe this activity. I here propose a framework that has 5 key descriptions which i think are helpfull.
+To deepen the understanding of this phenomena we need a framework that can describe this activity. I here propose a framework that has 5 key descriptions which i think are helpfull.
 
 
 
-| Layer              | Desription                                                                         |
+| Layer              | Description                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------- |
-| Physical universe  | As best desribed by the standard model                                             |
+| Physical universe  | As best described by the standard model                                            |
 | Sensor input       | Electrical signals from sensors(ears, eyes, nose. etc) detecting light, sound,...  |
 | Model worldview    | The model of the world as the unconscious mind sees it. Basically a latent space.  |
-| Perciver           | The conscious perciver (you reading this for example)                              |
+| Perciver           | The conscious perciver (youm the one reading this for example)                     |
 | World as presented | The word as the perciver sees it. Presented to the perciver as perceptions.        |
 
 
 
 ### Physical universe
-The physical universe is to complex for the human mind to comprehend in its entirety. The best descripions we have of what it is and how it "looks" is the standard model. Which can describe interactions betwen a few paricles in super computers. But the physical universe consists of contless particles. In such numbers that it is completly unimaginable. I added quotes to looks, case it does not look like anything, things looking like anything is a property that comes from photons interacting with the eyes. While the physical universe contains photons, it does not emit them. So eyes cant see them. There are more arguments that can be made as to why it does not look like anything but i wont go in to it. It should be obvoius if you understand what i mean, if it is not ask me so i can gain knowlage about how i should improve this description.
+The physical universe is to complex for the human mind to comprehend in its entirety. The best descriptions we have of what it is and how it "looks" is the standard model. Which can describe interactions betwen a few particles in super computers. But the physical universe consists of contless particles. In such numbers that it is completly unimaginable. I wrote quotes around "looks", cause the physical universe does not look like anything, things looking like anything is a property that comes from photons interacting with the eyes. While the physical universe contains photons, it does not emit them. So eyes cant see it. There are more arguments that can be made as to why it does not look like anything, but i wont go in to it. Ask me if you want another example, that way i can gain knowlage about how i should improve this description.
 
 ### Sensor input
-Parts of the physical universe arange in to sensors that detect input such as light, air vibrations, pressure, heat and so on. These sensors convert those phenomena to nerve signals. Signals that are sent in to the brain, where the signals are proccessed.
+Parts of the physical universe arange in to sensors that detect input. Input such as light, air vibrations, pressure, heat and so on. These sensors convert those phenomena to nerve signals. Signals that are sent in to the brain, where the signals are proccessed.
 
 ### Model worldview
-The model worldview is a latent space that describes the features of the subjective world. This is where things like chairs, tables, emotions, humans, words makes it's first apperance. The model worldview is manufactured and shaped by evolutionary pressure and sensor input. But also by feedback generated from the actions and reactions of the conscious perciver. That feedback seams to be mediated by dopamin to a certain extent.
+The model worldview is a latent space that describes the features of the subjective world. This is where things like chairs, tables, emotions, humans, dog barks and words makes their first apperance. The model worldview is manufactured and shaped by evolutionary pressure and sensor input. But also by feedback generated from the actions and reactions of the conscious perciver. That feedback seams to be mediated by dopamin to a certain extent.
 
 ### Perciver
 The self aware perciver, it percives things and it knows that it percives things. It belives it exists in something. What it actaully exist is in the model worldview.
@@ -37,8 +37,10 @@ This is what the perciver see, in a sense it is a slice/a small part of the mode
 The world as the human consciousness perceives it is a representation manufactured by fitting sensory input to the model worldview.
 In psychology this fitting of sensory input is often talked about as top-down processing.
 
+The work on this framework is not done and more will follow... if you want to read more about similar things look up Joscha Bach.
 
-## Basic assumptions/definitions
+
+## Basic assumptions/definitions for a sane mind
 1. ***Everything*** is a model. You are a model, the things you see with your perception are models that your unconscious uses to grasp the world, math is a model, numbers are models, contexts/perspectives/categories/groups/objects/systems are models, the air is a model, words are models... its models all the way up, and all the way down. 
 2. Truth, is only valid within the model that it is defined in. See [Gödel's incompleteness theorem](https://en.wikipedia.org/wiki/Gödel%27s_incompleteness_theorems). (It is invalid to validate a system using the system itself.)
 3. There are models which describe **all** models. Those types of models is in a sense the closest you can come to absolute truth. Parts of this list is a description of such a model. 
