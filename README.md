@@ -13,18 +13,29 @@ To deepen the understanding of this phenomena we need a framework that describe 
 | Physical universe  | As best desribed by the standard model                                             |
 | Sensor input       | Electrical signals from sensors(ears, eyes, nose. etc) detecting light, sound,...  |
 | Model worldview    | The model of the world as the unconscious mind sees it. Basically a latent space.  |
-| World as presented | The word as the perciver sees it. Presented to the perciver as perceptions.        |
 | Perciver           | The conscious perciver (you reading this for example)                              |
+| World as presented | The word as the perciver sees it. Presented to the perciver as perceptions.        |
+
 
 
 ### Physical universe
-The physical universe is to complex for the human mind to comprehend in its entirety. The best descripions we have of what it is and how it "looks" is the standard model. Which can describe interactions betwen a few paricles in super computers. But the physical universe consists of contless particles. In such numbers that it is completly unimaginable. 
-Layer 1,2 and 3 can be seen as proper layers, they are in some sense abstraction layers built ontop of each other.
+The physical universe is to complex for the human mind to comprehend in its entirety. The best descripions we have of what it is and how it "looks" is the standard model. Which can describe interactions betwen a few paricles in super computers. But the physical universe consists of contless particles. In such numbers that it is completly unimaginable. I added quotes to looks, case it does not look like anything, things looking like anything is a property that comes from photons interacting with the eyes. While the physical universe contains photons, it does not emit them. So eyes cant see them. There are more arguments that can be made as to why it does not look like anything but i wont go in to it. It should be obvoius if you understand what i mean, if it is not ask me so i can gain knowlage about how i should improve this description.
 
-Layer 4 and 5 can in a sense be said to operate within layer 3.
+### Sensor input
+Parts of the physical universe arange in to sensors that detect input such as light, air vibrations, pressure, heat and so on. These sensors convert those phenomena to nerve signals. Signals that are sent in to the brain, where the signals are proccessed.
+
+### Model worldview
+The model worldview is a latent space that describes the features of the subjective world. This is where things like chairs, tables, emotions, humans, words makes it's first apperance. The model worldview is manufactured and shaped by evolutionary pressure and sensor input. But also by feedback generated from the actions and reactions of the conscious perciver. That feedback seams to be mediated by dopamin to a certain extent.
+
+### Perciver
+The self aware perciver, it percives things and it knows that it percives things. It belives it exists in something. What it actaully exist is in the model worldview.
+
+### World as presented
+This is what the perciver see, in a sense it is a slice/a small part of the model worldview. You see a table, you see a human and so on. This is what a naive mind will belive "reality" is.
+
 
 The world as the human consciousness perceives it is a representation manufactured by fitting sensory input to the model worldview.
-Thse are the layers of the framework
+In psychology this fitting of sensory input is often talked about as top-down processing.
 
 
 ## Basic assumptions/definitions
