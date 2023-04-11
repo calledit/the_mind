@@ -37,7 +37,7 @@ This is what the perciver see and experience, in a sense it is a slice/a small p
 ### Ontological model
 A model that represents what the perciver consciously believes the world is and how it works. This is what the perciver will describe when it is asked about how things in the world works. The ontological model is created by the perciver as it oberves data avalible in the "world as presented". It is a belief system.
 
-### Binding this together
+## Binding this together
 The world as the human consciousness perceives it is a representation manufactured by fitting sensory input to the model worldview.
 In psychology this fitting of sensory input is often talked about as top-down processing. But this is perception, human consciousness can learn and understand that the word "world" can also refer to other things. We can understand that the world is not like it seams. Knowing that the world one lives in is a diffrent world compared to the world that other people live in does not make the perceptions from ones own "World as presented" go away. Perceptions are perceptions and they do not disipear when one stops beliveing in them.
 
