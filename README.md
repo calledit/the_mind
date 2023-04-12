@@ -8,14 +8,14 @@ To deepen the understanding of this phenomena we need a framework that can descr
 
 
 
-| Layer                     | Description                                                                        |
-| ------------------------- | ---------------------------------------------------------------------------------- |
-| Physical universe         | As best described by the standard model                                            |
-| Sensor input              | Electrical signals from sensors(ears, eyes, nose. etc) detecting light, sound,...  |
-| Model worldview           | The model of the world as the unconscious mind "sees" it. Basically a latent space.  |
-| Perciver                  | The conscious perciver (you the one reading this for example)                      |
-| World as presented        | The word as the perciver sees it. Presented to the perciver as perceptions.        |
-| Ontological model         | Model of what the perciver consciously belives the world is and how it works.      |
+| Layer                      | Description                                                                         |
+| -------------------------- | ----------------------------------------------------------------------------------- |
+| Physical universe          | As best described by the standard model                                             |
+| Sensor input               | Electrical signals from sensors(ears, eyes, nose. etc) detecting light, sound,...   |
+| Model worldview            | The model of the world as the unconscious mind "sees" it. Basically a latent space. |
+| Perciver                   | The conscious perciver (you the one reading this for example)                       |
+| World as presented         | The word as the perciver sees it. Presented to the perciver as perceptions.         |
+| Personal ontological model | Model of what the perciver consciously belives the world is and how it works.       |
 
 
 
@@ -34,12 +34,12 @@ The self aware perciver, it percives things and it knows that it percives things
 ### World as presented
 This is what the perciver see and experience, in a sense it is a slice/a small part of the model worldview. You see a table, you see a human and so on. This is what a naive mind will describe as "reality".
 
-### Ontological model
+### Personal ontological model
 A model that represents what the perciver consciously believes the world is and how it works. This is what the perciver will describe when it is asked about how things in the world works. The ontological model is created by the perciver as it oberves data avalible in the "world as presented". It is a belief system. Joscha Bach calls this "unified world model".
 
 ## Binding this together
 The world as the human consciousness perceives it is a representation manufactured by fitting sensory input to the model worldview.
-In psychology this fitting of sensory input is often talked about as top-down processing. But this is perception, human consciousness can learn and understand that the word "world" can also refer to other things. We can understand that the world is not like it seams. Knowing that the world one lives in is a diffrent world compared to the world that other people live in does not make the perceptions from ones own "World as presented" go away. Perceptions are perceptions and they do not disipear when one stops beliveing in them.
+In psychology this fitting of sensory input is often talked about as top-down processing. Human consciousness can learn and understand that the word "world" can also refer to diffrent things. We can understand that the world is not like it seams. Knowing that the world one lives in is a diffrent world compared to the world that other people live in does not make the perceptions from ones own "World as presented" go away. Perceptions are perceptions and they do not disipear when one stops beliveing in them.
 
 A simulation of the "Model worldview" is beeing computed in the brain, and the perciver lives in that simulation. But the perciver is not only beeing feed with information from that simulation. The perciver is an enitity beeing simulated in the simulation.
 
