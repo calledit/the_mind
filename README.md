@@ -12,7 +12,7 @@ To deepen the understanding of this phenomena we need a framework that can descr
 | -------------------------- | ----------------------------------------------------------------------------------- |
 | Physical universe          | As best described by the standard model                                             |
 | Sensor input               | Electrical signals from sensors(ears, eyes, nose. etc) detecting light, sound,...   |
-| Model worldview            | The model of the world as the unconscious mind "sees" it. Basically a latent space. |
+| Perceptual space model     | The model of the world as the unconscious mind "sees" it. Basically a latent space. |
 | Perciver                   | The conscious perciver (you the one reading this for example)                       |
 | World as presented         | The word as the perciver sees it. Presented to the perciver as perceptions.         |
 | Personal ontological model | Model of what the perciver consciously belives the world is and how it works.       |
@@ -25,23 +25,23 @@ The physical universe is to complex for the human mind to comprehend in its enti
 ### Sensor input
 Parts of the physical universe arange in to sensors that detect input. Input such as light, air vibrations, pressure, heat and so on. These sensors convert those phenomena to nerve signals. Signals that are sent in to the brain, where the signals are proccessed.
 
-### Model worldview
-The model worldview is a latent space that describes the features of the subjective world. This is where things like chairs, tables, emotions, humans, dog barks and words makes their first apperance. The model worldview is manufactured and shaped by evolutionary pressure and sensor input. But also by feedback generated from the actions and reactions of the conscious perciver. That feedback seams to be mediated by dopamin to a certain extent.
+### Perceptual space model
+The perceptual space model is a latent space that describes the features of a percivers subjective world. This is where things like chairs, tables, emotions, humans, dog barks and words makes their first apperance. The perceptual space model is manufactured and shaped by evolutionary pressure and sensor input. But also by feedback generated from the actions and reactions of the conscious perciver. That feedback seams to be mediated by dopamin to a certain extent.
 
 ### Perciver
-The self aware perciver, it percives things and it knows that it percives things. It belives it exists in something. What it actaully exist is in the model worldview.
+The self aware perciver, it percives things and it knows that it percives things. It belives it exists in something. What it actaully exist is in the Perceptual space model.
 
 ### World as presented
-This is what the perciver see and experience, in a sense it is a slice/a small part of the model worldview. You see a table, you see a human and so on. This is what a naive mind will describe as "reality".
+This is what the perciver see and experience, in a sense it is a slice/a small part of the perceptual space model. You see a table, you see a human and so on. This is what a naive mind will describe as "reality".
 
 ### Personal ontological model
 A model that represents what the perciver consciously believes the world is and how it works. This is what the perciver will describe when it is asked about how things in the world works. The ontological model is created by the perciver as it oberves data avalible in the "world as presented". It is a belief system. Joscha Bach calls this "unified world model".
 
 ## Binding this together
-The world as the human consciousness perceives it is a representation manufactured by fitting sensory input to the model worldview.
+The world as the human consciousness perceives it is a representation manufactured by fitting sensory input to the perceptual space model.
 In psychology this fitting of sensory input is often talked about as top-down processing. Human consciousness can learn and understand that the word "world" can also refer to diffrent things. We can understand that the world is not like it seams. Knowing that the world one lives in is a diffrent world compared to the world that other people live in does not make the perceptions from ones own "World as presented" go away. Perceptions are perceptions and they do not disipear when one stops beliveing in them.
 
-A simulation of the "Model worldview" is beeing computed in the brain, and the perciver lives in that simulation. But the perciver is not only beeing feed with information from that simulation. The perciver is an enitity beeing simulated in the simulation.
+A simulation of the "perceptual space model" is beeing computed in the brain, and the perciver lives in that simulation. But the perciver is not only beeing feed with information from that simulation. The perciver is an enitity beeing simulated in the simulation.
 
 *The work on this framework is not done and more will follow... if you want to read more about similar things look up Joscha Bach.
 
