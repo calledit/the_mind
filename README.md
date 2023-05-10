@@ -20,13 +20,13 @@ To deepen the understanding of this phenomena we need a framework that can descr
 
 
 ### Physical universe
-The physical universe is to complex for the human mind to comprehend in its entirety. The best descriptions we have of what it is and how it "looks" is the standard model. Which can describe interactions betwen a few particles in super computers. But the physical universe consists of contless particles. In such numbers that it is completly unimaginable. I wrote quotes around "looks", cause the physical universe does not look like anything, things looking like anything is a property that comes from photons interacting with the eyes. While the physical universe contains photons, it does not emit them. So eyes cant see it. There are more arguments that can be made as to why it does not look like anything, but i wont go in to it. Ask me if you want another example, that way i can gain knowlage about how i should improve this description.
+The physical universe is to complex for the human mind to comprehend in its entirety. The best descriptions we have of what it is and how it "looks" is the standard model. Which can describe interactions betwen a few particles in super computers. But the physical universe consists of contless particles. In such numbers that it is completly unimaginable. I wrote quotes around "looks", cause the physical universe does not look like anything, things looking like anything is a property that comes from photons interacting with the eyes. While the physical universe contains photons, it does not emit them. So eyes cant see it.
 
 ### Sensor input
 Parts of the physical universe arange in to sensors that detect input. Input such as light, air vibrations, pressure, heat and so on. These sensors convert those phenomena to nerve signals. Signals that are sent in to the brain, where the signals are proccessed.
 
 ### Perceptual space model
-The perceptual space model is a latent space that describes the features of a percivers subjective world. This is where things like chairs, tables, emotions, humans, dog barks and words makes their first apperance. The perceptual space model is manufactured and shaped by evolutionary pressure and sensor input. But also by feedback generated from the actions and reactions of the conscious perciver. That feedback seams to be mediated by dopamin to a certain extent.
+The perceptual space model is a latent space that describes the features of a percivers subjective world. This is where things like chairs, tables, emotions, humans, dog barks and words makes their first apperance. The perceptual space model is manufactured and shaped by evolutionary pressure and sensor input. But also by feedback generated from the actions and reactions of the conscious perciver.
 
 ### Perciver
 The self aware perciver, it percives things and it knows that it percives things. It belives it exists in something. What it actaully exist is in the Perceptual space model.
