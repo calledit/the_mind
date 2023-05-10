@@ -26,7 +26,7 @@ The physical universe is to complex for the human mind to comprehend in its enti
 Parts of the physical universe arange in to sensors that detect input. Input such as light, air vibrations, pressure, heat and so on. These sensors convert those phenomena to nerve signals. Signals that are sent in to the brain, where the signals are proccessed.
 
 ### Perceptual space model
-The perceptual space model is a latent space that describes the features of a percivers subjective world. This is where things like chairs, tables, emotions, humans, dog barks and words makes their first apperance. The perceptual space model is manufactured and shaped by evolutionary pressure and sensor input. But also by feedback generated from the actions and reactions of the conscious perciver.
+The perceptual space model is a latent space that describes the features of a percivers subjective world. This is where things like chairs, tables, emotions, humans, dog barks and words makes their first apperance. The perceptual space model is manufactured and shaped by evolutionary pressure and sensor input. But also by reinforcement generated from the actions and reactions of the conscious perciver.
 
 ### Perciver
 The self aware perciver, it percives things and it knows that it percives things. It belives it exists in something. What it actaully exist is in the Perceptual space model.
