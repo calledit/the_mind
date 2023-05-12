@@ -26,7 +26,13 @@ The physical universe is to complex for the human mind to comprehend in its enti
 Parts of the physical universe arange in to sensors that detect input. Input such as light, air vibrations, pressure, heat and so on. These sensors convert those phenomena to nerve signals. Signals that are sent in to the brain, where the signals are proccessed.
 
 ### Perceptual space model
-The perceptual space model is a latent space that describes the features of a percivers subjective world. This is where things like chairs, tables, emotions, humans, dog barks and words makes their first apperance. The perceptual space model is manufactured and shaped by evolutionary pressure and sensor input. But also by reinforcement generated from the actions and reactions of the conscious perciver.
+The perceptual space model is a latent space that describes the features of a perceivers subjective world. This is where things like chairs, tables, emotions, humans, dog barks and words makes their first appearance. The perceptual space model is manufactured and shaped by evolutionary pressure and sensor input. But also by reinforcement generated from the actions and reactions of the conscious perceiver.
+A high level example of the shaping of the perceptual space model can be given by describing the act of learning to read.
+1. Initially a person only perceives text as a bunch of unidentifiable symbols, something like a piece of abstract art.
+2. Then the formal rules for reading is given to the individual by some teacher, that is the names of each of the symbols (the letters) and the rules for combing them to generate words.
+3. The individual integrates the rules in to their personal ontological model, and repeatedly applies the rules until reading becomes automatic and thus integrated in to the perceptual space model.
+4. At this stage the perceiver no longer perceives abstract art, but percepts of words and sentences when sensory input coming from text is given.
+
 
 ### Perciver
 The self aware perciver, it percives things and it knows that it percives things. It belives it exists in something. What it actaully exist is in the Perceptual space model.
