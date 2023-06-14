@@ -14,7 +14,7 @@ To deepen the understanding of this phenomena we need a framework that can descr
 | Sensor input               | Electrical signals from sensors(ears, eyes, nose. etc) detecting light, sound,...   |
 | Perceptual world model     | The model of the world as the unconscious mind "sees" it. Basically a latent space. |
 | Perceiver                  | The conscious perceiver (you the one reading this for example)                      |
-| World as presented         | The word as the perceiver sees it. Presented to the perceiver as perceptions.       |
+| World as presented         | The world as the perceiver sees it. Presented to the perceiver as perceptions.       |
 | Personal ontological model | Model of what the perceiver consciously believes the world is and how it works.     |
 
 
