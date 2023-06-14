@@ -2,7 +2,7 @@
 My own ponderings, on classifying parts of the mind and the world.
 
 ## Human perception
-Humans have a brain that is feed with signals that encode information about the world. These signals are accumulated, processed and categorised. This activity is what allows human perception to exist.
+Humans have a brain that is feed with signals that encode information about the world. These signals are accumulated, processed and categorised. This activity allows human perception to exist.
 
 To deepen the understanding of this phenomena we need a framework that can describe this activity. I here propose a framework that has 6 key descriptions which i think are helpful.
 
@@ -12,7 +12,7 @@ To deepen the understanding of this phenomena we need a framework that can descr
 | -------------------------- | ----------------------------------------------------------------------------------- |
 | Physical universe          | As best described by the standard model                                             |
 | Sensor input               | Electrical signals from sensors(ears, eyes, nose. etc) detecting light, sound,...   |
-| Perceptual space model     | The model of the world as the unconscious mind "sees" it. Basically a latent space. |
+| Perceptual world model     | The model of the world as the unconscious mind "sees" it. Basically a latent space. |
 | Perceiver                  | The conscious perceiver (you the one reading this for example)                      |
 | World as presented         | The word as the perceiver sees it. Presented to the perceiver as perceptions.       |
 | Personal ontological model | Model of what the perceiver consciously believes the world is and how it works.     |
@@ -20,36 +20,38 @@ To deepen the understanding of this phenomena we need a framework that can descr
 
 
 ### Physical universe
-The **physical universe** (or the logos) is to complex for the human mind to comprehend in its entirety. The best descriptions we have of what it is and how it "looks" is the standard model. Which can describe interactions between a few particles in super computers. But the **physical universe** consists of countless particles, in such numbers that it is completely unimaginable. I wrote quotes around "looks", cause the **physical universe** does not look like anything, things looking like anything is a property that comes from photons interacting with the eyes. While the **physical universe** contains photons, it does not emit them. So eyes cant see it. It is a common thought pattern among some people to think that the **physical universe** consists of matter or particles, this model of the **physical universe** is invalid. Matter and particles are ways of describing the **physical universe** on a particular level, it is not what the what the **physical universe** is, what the **physical universe** is we can not know.
+The **physical universe** (or the logos with another terminology) is to complex for the human mind to comprehend in its entirety. The best descriptions we have of what it is and how it "looks" is the standard model. Which with our current technology can be used to simulate interactions between a few particles in super computers. But the **physical universe** consists of countless particles, in such numbers that it is completely unimaginable. Earlier in the text there is quotes around "looks", cause the **physical universe** does not look like anything, things looking like anything is a property that comes from photons interacting with the eyes. While the **physical universe** contains photons, it does not emit them. So eyes cant see the **physical universe**. It is a common thought pattern among some people to assert that the **physical universe** consists of matter or particles, this material model of the **physical universe** is invalid. Matter and particles are ways of describing the **physical universe** on a specific level, it is not what the what the **physical universe** is, what the **physical universe** is we can not know.
 
 ### Sensor input
 Parts of the **physical universe** arrange in to sensors that detect input. Input such as light, air vibrations, pressure, heat and so on. These sensors convert those phenomena to nerve signals. Signals that are sent in to the brain, where the signals are processed.
 
-### Perceptual space model
-The **perceptual space model** is a latent space that describes the features of a **perceivers** subjective world. This is where things like chairs, tables, emotions, humans, dog barks and words makes their first appearance. **The perceptual space model** is manufactured and shaped by evolutionary pressure and **sensor input**. But also by reinforcement generated from the actions and reactions of the conscious **perceiver**.
-Following is a example of the shaping of the perceptual space model in the context of learning to read.
+### Perceptual world model
+The **perceptual world model** is a model of a latent space that describes the features of a **perceivers** subjective world. This is where things like chairs, tables, emotions, humans, dog barks and words makes their first appearance. **The perceptual world model** is manufactured and shaped by evolutionary pressure and **sensor input**. But also by reinforcement generated from the actions and reactions of the conscious **perceiver**.
+Following is a example of the shaping of the perceptual world model in the context of learning to read.
 1. Initially a **perciver** only perceives text as a bunch of unidentifiable symbols, something like a piece of abstract art.
 2. Then the formal rules for reading is given to the individual by some teacher. The rules being: The names of each of the symbols (the letters) and the rules for combing them to generate words.
-3. The individual integrates the rules in to their **personal ontological model**, and repeatedly applies the rules until reading becomes automatic and thus integrated in to the **perceptual space model**.
+3. The individual integrates the rules in to their **personal ontological model**, and repeatedly applies the rules until reading becomes automatic and thus integrated in to the **perceptual world model**.
 4. At this stage the **perceiver** no longer perceives abstract art when sensory input coming from text is given, but percepts of words and sentences.
 
 
 ### Perceiver
-The self aware conscious **perceiver**, it perceives things and it knows that it perceives things. It believes it exists in something. What it actually exists in is the **perceptual space model**.
+The self aware conscious **perceiver**, it perceives things and it knows that it perceives things. It believes it exists in something. What it actually exists in is the **perceptual world model**.
 
 ### World as presented
-This is what the **perceiver** see and experience, in a sense it is a slice/a small part of the **perceptual space model**. You see a table, you see a human and so on. This is what a naive mind will describe as "reality".
+This is what the **perceiver** see and experience, in a sense it is a slice/a small part of the **perceptual world model**. You see a table, you see a human and so on. This is what a naive mind will describe as "reality".
 
 ### Personal ontological model
-A model that represents what the **perceiver** consciously believes the world is and how it works. This is what the **perceiver** will describe when it is asked about how things in the world works. The ontological model is created by the **perceiver** as it observes data available in the **"world as presented"**. It is a belief system. Joscha Bach calls this "unified world model".
+A model that represents what the **perceiver** consciously believes the world is and how it works. This is what the **perceiver** will describe when it is asked about how things in the world works. The ontological model is created by the **perceiver** as it observes data available in the **"world as presented"**. It is a belief system. [Joscha Bach calls this "unified world model" in one of his lectures.](https://youtu.be/QF50rQE39P4?t=5769)
 
 ## Binding this together
-The world as the human consciousness perceives it is a representation manufactured by fitting **sensory input** to the **perceptual space model**.
-In psychology this fitting of **sensory input** is often talked about as top-down processing. With this said about the world, it is important to note that human consciousness can learn and understand that the word "world" can also refer to different things, that is we can understand that the world is not like it seams. Knowing that the world one lives in is a different world compared to the world that other people live in does not make the perceptions from ones own **"World as presented"** go away. Perceptions are perceptions and they do not disappear when one stops believing in them.
+A simulation of the **perceptual world model** is being computed in the brain, and the perceiver lives in that simulation. But the **perceiver** is not only being feed with information from that simulation. The **perceiver** is an entity being simulated in the simulation. The world as the human consciousness perceives it is a representation manufactured by fitting **sensory input** to the **perceptual world model**. In psychology this fitting of **sensory input** is often talked about as top-down processing. 
 
-A simulation of the **perceptual space model** is being computed in the brain, and the perceiver lives in that simulation. But the **perceiver** is not only being feed with information from that simulation. The **perceiver** is an entity being simulated in the simulation.
 
-*The work on this framework is not done and more will follow... if you want to read more about similar things look up Joscha Bach.*
+### Definitions of words
+There are loots of specific words in this text and the words mean very specific things, if the contents of this text it to be presented it will be important to lay out proper definitions. Otherwise things can get confusing. An example might be the word "world". The world presented to us is based on our **perceptual world model**. Many times when we use the word "world" we are unspecific about what world we are talking about, we might talk about the material world or the subjective world or something else. It is important to see that we can learn and understand that the word "world" can also refer to different things, we can understand that the world is not like it seams. Knowing that the world one lives in is a different world compared to the world that other people live in does not make the perceptions from ones own **"World as presented"** go away. Perceptions are perceptions and they do not disappear when one stops believing in them.
+
+
+*The work on this framework is not done and it is a work in progress... if you want to read more about similar things look up Joscha Bach.*
 
 
 ## Basic assumptions/definitions for proper understanding
