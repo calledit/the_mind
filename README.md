@@ -44,7 +44,8 @@ This is what the **perceiver** see and experience, in a sense it is a slice/a sm
 A model that represents what the **perceiver** consciously believes the world is and how it works. This is what the **perceiver** will describe when it is asked about how things in the world works. The ontological model is created by the **perceiver** as it observes data available in the **"world as presented"**. It is a belief system. [Joscha Bach calls this "unified world model" in one of his lectures.](https://youtu.be/QF50rQE39P4?t=5769)
 
 ## Binding this together
-A simulation of the **perceptual world model** is being computed in the brain, and the perceiver lives in that simulation. But the **perceiver** is not only being feed with information from that simulation. The **perceiver** is an entity being simulated in the simulation. The world as the human consciousness perceives it is a representation manufactured by fitting **sensory input** to the **perceptual world model**. In psychology this fitting of **sensory input** is often talked about as top-down processing. 
+A simulation (technically a simulacrum) of the **perceptual world model** is being computed in the brain based on the **sensor inputs**. The perceiver lives in that simulation, but the **perceiver** is not only being feed with information from that simulation the **perceiver** is in a sense an entity being simulated in the simulation.
+The world as the human consciousness perceives it is a representation manufactured by fitting **sensory input** to the **perceptual world model**. In psychology this fitting of **sensory input** is often talked about as top-down processing. 
 
 
 ### Definitions of words
