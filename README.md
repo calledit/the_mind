@@ -65,7 +65,7 @@ There are loots of specific words in this text and the words mean very specific 
 * The unconscious: processes in you and your body that you are not directly aware of.
 * The collective unconscious: processes inside and outside of your body that you are not directly aware of. Parts of the collective unconscious is simply societal patterns.
 * Process: Terminology describing patterns of things leading somewhere.
-* Meaning: The purpose or a description of something as described within some context/in relationship to some model.
+* Meaning: The purpose or a description of something (as described within some context)/(in relationship to some model).
 * [Necessary causes](https://en.wikipedia.org/wiki/Causality#Necessary_and_sufficient_causes) are the only proper causes, they are the only types of causes that allows one to use deductive reasoning. "Sufficient causes" are useful when telling storys, but should not be mixed up with "necessary causes" when one is trying to come to valid conclusions about the nature of things.
 * ***Representationalism***: Each of us live, not in the physical world, but in a simulation that uses models to represent parts of the physical world. A simulation that is being executed by the brain of a primate(Homo sapiens).
 * Personality, is a low resolution model of how you tend to behave based on your previous behaviour. The most well established personality system is "BIG 5". But there are other such systems, like the MBTI. The MTBI is older and is less "rigorous" but the BIG 5 and MTBI has some overlap, mainly on the extraversion/introversion dimension which are very similar in both systems but there is also some overlap in the dimension BIG-5-oppenness and MTBI-intuition/sensation.
