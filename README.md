@@ -83,7 +83,7 @@ It follows from these points that everything that you can think of is a descript
 
 
 ### Free will:
-If we can have free will or not depends on how one defines free will. If one defines it as something that requires magic, it can not exist. If one defines it as something that does not require magic it can.
+If we can have free will or not depends on how one defines free will. If one defines it as something that requires magic, it can not exist. If one defines it as something that does not require magic it can exist.
 
 "Choice" and "will" can be described as a casal system where the choices we make have causal effect on the world, as such the choices you make have an effect on the world, things in the world would look diffrent if you did not make the choices you made. One can then argue that you did not make the choice yourself, it was a chain of events that led to the choice that was not in your control. An argument that depends on a magic belif where the human that you are is separate from the world. But you are not simply human in this context, you are a choice maker, a decision proccess that evaluated concepts and models and made a wheighted decision.
 
