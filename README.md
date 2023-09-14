@@ -48,10 +48,6 @@ A simulation (technically a simulacrum) of the **perceptual world model** is bei
 The world as the human consciousness perceives it is a representation manufactured by fitting **sensory input** to the **perceptual world model**. In psychology this fitting of **sensory input** is often talked about as top-down processing. 
 
 
-### Definitions of words
-There are loots of specific words in this text and the words mean very specific things, if the contents of this text it to be presented it will be important to lay out proper definitions. Otherwise things can get confusing. An example might be the word "world". The world presented to us is based on our **perceptual world model**. Many times when we use the word "world" we are unspecific about what world we are talking about, we might talk about the material world or the subjective world or something else. It is important to see that we can learn and understand that the word "world" can also refer to different things, we can understand that the world is not like it seams. Knowing that the world one lives in is a different world compared to the world that other people live in does not make the perceptions from ones own **"World as presented"** go away. Perceptions are perceptions and they do not disappear when one stops believing in them.
-
-
 *The work on this framework is not done and it is a work in progress... if you want to read more about similar things look up Joscha Bach.*
 
 
@@ -85,3 +81,9 @@ It follows from these points that everything that you can think of is a descript
 * The cause of mental illness as described on the inter human layer: not thinking "usefully" about how the world functions, and then behaving strange due to not thinking "usefully". Why a person is not thinking "usefully" can be described in various ways, sometimes explanations made in a different causal system is used, where one defines the cause with chemical imbalances in the brain, and sometimes explanations with personal trauma is used.
 * The ego(jungian term): (ie the self model) the model that the perciver percives it is. It is what the organism uses to represent itself. It is a higly compressed representation of what the organism is(where the organism is the jungian self). Due to the compressed nature of the represantation that makes up the ego, the ego is always inacurate to some degree. Having an ego that is stucturally similar(ie. it models the same or similar dimensions) as other peoples egos is very useful as it allows one to make accurate predictions of other peoples behavior. Due to the fact that people in society use their own perception of themself to undersand others. Having a ego that does not structuraly match up well with the self or other peoples ego is to the best of my understanding what underlies many of the behaviors that we call autism.
 * Invalid questions: A question where the context is not described is an invalid question. Invalid questions can not be answered, the question must be reframed/recontextualized before an answer can be given. The process of reframing technically creates a new question and the original question is thus left unanswered.
+
+
+
+
+### Definitions of words
+There are loots of specific words in this text and the words mean very specific things, if the contents of this text it to be presented it will be important to lay out proper definitions. Proper definitions are definition that does not break consistency with other defintions that are located in the same paradigm.
