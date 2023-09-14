@@ -61,6 +61,8 @@ There are loots of specific words in this text and the words mean very specific 
 3. There are models which describe **all** models. Those types of models is in a sense the closest you can come to absolute truth. Parts of this list is a description of such a model. 
 4. A model of a thing is a formula that defines/describes the things properties, and/or how it behaves. A model can be consistent(ie the model is consistent with itself) or inconsistent(it contradicts itself). All models have validity, validity is a property that describes how well the model models the thing it is modelling(basically how accurate the models is).
 
+It follows from these points that everything that you can think of is a description. i.e. From our perspective everything is descriptions of things, not the things themself.
+
 ## Other things that tend to cause confusion
 * The unconscious: processes in you and your body that you are not directly aware of.
 * The collective unconscious: processes inside and outside of your body that you are not directly aware of. Parts of the collective unconscious is simply societal patterns.
