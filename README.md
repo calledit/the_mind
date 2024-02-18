@@ -38,7 +38,7 @@ Following is a example of the shaping of the perceptual world model in the conte
 The self aware conscious **perceiver**, it perceives things and it knows that it perceives things. It believes it exists in something. What it actually exists in is the **perceptual world model**.
 
 ### World as presented
-This is what the **perceiver** see and experience, in a sense it is a slice/a small part of the **perceptual world model**. You see a table, you see a human and so on. This is what a naive mind will describe as "reality".
+This is what the **perceiver** see and experience, in a sense it is a slice/a small part of the **perceptual world model**. You see a table, you see a human and so on. This is what a naive mind will describe as "reality", see [Naïve realism](https://en.wikipedia.org/wiki/Naïve_realism).
 
 ### Personal ontological model
 A model that represents what the **perceiver** consciously believes the world is and how it works. This is what the **perceiver** will describe when it is asked about how things in the world works. The ontological model is created by the **perceiver** as it observes data available in the **"world as presented"**. It is a belief system. [Joscha Bach calls this "unified world model" in one of his lectures.](https://youtu.be/QF50rQE39P4?t=5769)
