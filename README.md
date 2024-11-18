@@ -1,5 +1,5 @@
 # The Mind
-My own ponderings, on classifying parts of the mind and the world. All of this is work in progress, i am not backing any of it as my ultimate truth or anything like that it's some ideas and my attempts to write them down. 
+My own ponderings, on classifying parts of the mind and the world. All of this is work in progress, i am not backing any of it as my ultimate truth or anything like that. It's some ideas that i have and my attempts to write them down.
 
 ## Human perception
 Humans have a brain that is feed with signals that encode information about the world. These signals are accumulated, processed and categorised. This activity allows human perception to exist.
