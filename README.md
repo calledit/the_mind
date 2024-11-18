@@ -4,7 +4,7 @@ My own ponderings, on classifying parts of the mind and the world. All of this i
 ## Human perception
 Humans have a brain that is feed with signals that encode information about the world. These signals are accumulated, processed and categorised. This activity allows human perception to exist.
 
-To deepen the understanding of this phenomena we need a framework that can be sused to describe this activity. I here propose some key components and descriptions which i think are helpful when talking and thinking about how our subjective perception works.
+To deepen the understanding of this phenomena we need a framework that can be used to describe this activity. I here propose some key components and descriptions which i think are helpful when talking and thinking about how our subjective perception works.
 
 
 
