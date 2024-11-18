@@ -88,7 +88,7 @@ The future is not predictable: The future of a system that has recursion is not 
 ### Free will
 If we can have free will or not depends on how one defines free will. If one defines it as something that requires magic, it cannot exist. If one defines it as something that does not require magic it can exist.
 
-One way of describing free will in a way that disconnects it from determinism is a perspective where "choice" and "will" are described as a casual system where the choices we make have causal effect on the world, as such the choices you make have an effect on the world, things in the world would look different if you did not make the choices you made.
+One way of describing free will such that it is disconnected from the idea based on determinism where choices do not have causal power, is a perspective where "choice" and "will" are described as a casual system where the choices we make have causal effect on the world. As such the choices you make have an effect on the world, things in the world would look different if you did not make the choices you made.
 
 Another way of defining free will is that it is what you use when you make choices that are based on a decision process that has not been manipulated by an external entity. Unless something is probing your brain and injecting signals in to it, all your decision process are your own. With this definition most humans have free will.
 
