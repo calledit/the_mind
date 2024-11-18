@@ -1,10 +1,10 @@
 # The Mind
-My own ponderings, on classifying parts of the mind and the world.
+My own ponderings, on classifying parts of the mind and the world. All of this is work in progress, i am not backing any of it as my ultimate truth or anything like that it's some ideas and my attempts to write them down. 
 
 ## Human perception
 Humans have a brain that is feed with signals that encode information about the world. These signals are accumulated, processed and categorised. This activity allows human perception to exist.
 
-To deepen the understanding of this phenomena we need a framework that can describe this activity. I here propose a framework that has 6 key descriptions which i think are helpful.
+To deepen the understanding of this phenomena we need a framework that can be sused to describe this activity. I here propose some key components and descriptions which i think are helpful when talking and thinking about how our subjective perception works.
 
 
 
@@ -20,13 +20,13 @@ To deepen the understanding of this phenomena we need a framework that can descr
 
 
 ### Physical universe
-The **physical universe** (or the logos/"the source" with another terminology) is to complex for the human mind to comprehend in its entirety. The best descriptions we have of what it is and how it "looks" is the standard model. Which with our current technology can be used to simulate interactions between a few particles in super computers. But the **physical universe** consists of countless particles, in such numbers that it is completely unimaginable. Earlier in the text there is quotes around "looks", cause the **physical universe** does not look like anything, things looking like anything is a property that comes from photons interacting with the eyes. While the **physical universe** contains photons, it does not emit them. So eyes cant see the **physical universe**. It is a common thought pattern among some people to assert that the **physical universe** consists of matter or particles, this material model of the **physical universe** is invalid. Matter and particles are ways of describing the **physical universe** on a specific level, it is not what the what the **physical universe** is, what the **physical universe** is we can not know.
+The **physical universe** (or the logos/"the source" with another terminology) is to complex for the human mind to comprehend in its entirety. The best descriptions we have of what it is and how it "looks" is the standard model. Which with our current technology can be used to simulate interactions between a few particles in super computers. But the **physical universe** consists of countless particles, in such numbers that it is completely unimaginable. There is quotes around "looks", cause the **physical universe** does not look like anything, things looking like anything is a property that comes from photons interacting with the eyes. While the **physical universe** contains photons, it does not emit them. So eyes cant see the **physical universe**. It is a common pattern among some people to assert that the **physical universe** consists of matter or particles, this material model of the **physical universe** is invalid. Matter and particles are ways of describing the **physical universe** on a specific level, it is not what the what the **physical universe** is, what the **physical universe** is we can not know.
 
 ### Sensor input
 Parts of the **physical universe** arrange in to sensors that detect input. Input such as light, air vibrations, pressure, heat and so on. These sensors convert those phenomena to nerve signals. Signals that are sent in to the brain, where the signals are processed.
 
 ### Perceptual world model
-The **perceptual world model** is a model of a latent space that describes the features of a **perceivers** subjective world. This is where things like chairs, tables, emotions, humans, dog barks and words makes their first appearance. **The perceptual world model** is manufactured and shaped by evolutionary pressure that amongst other guide the brain to grow in to a certain structure and design sensors and as such determine the modalities that is included in to the **perceptual world model**. The **perceptual world model** is also shaped by **sensor input** and by reinforcement learning generated from the actions and reactions of the conscious **perceiver**.
+The **perceptual world model** is a model of a latent space that describes the features of a **perceivers** subjective world. This is where things like chairs, tables, emotions, humans, dog barks and words makes their first appearance. **The perceptual world model** is manufactured and shaped by evolutionary pressure that amongst other guide the brain to grow in to a certain structure and design sensors. Those structures and sensior determine the modalities that is included in to the **perceptual world model**. The **perceptual world model** is also shaped by **sensor input** and by reinforcement learning generated from the actions and reactions of the conscious **perceiver**.
 Following is a example of the shaping of the perceptual world model in the context of learning to read.
 1. Initially a **perciver** only perceives text as a bunch of unidentifiable symbols, something like a piece of abstract art.
 2. Then the formal rules for reading is given to the individual by some teacher. The rules being: The names of each of the symbols (the letters) and the rules for combing them to generate words.
