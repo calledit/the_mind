@@ -93,16 +93,19 @@ If we can have free will or not depends on how one defines free will. If one def
 To answer the question "Do I have free will?", one must create definitions for "free", "will" and "I". It will be impossible to create a satisfactory answer without first doing that. 
 
 **The words "choice" or "Will"**
-The words "choice" and "will" can be described as belonging to casual systems layered ontop of the physical world. With such a description the choices you make does have an effect on the world and things in the world would look different if you did not make the choices you made. Choices are caused by other choices and while the choices are encoded in the physical world they are not caused by the physical world. This still has the implication that choices are deterministic, that can't be changed.
-
-
-**The word "Free"**
-A pragmatic way of defining "free will" is that it is the thing you use when you make choices that are based on a decision process that was not been manipulated by an external entity. Unless something is probing your brain and injecting signals in to it, all your decision process are your own. With this definition most humans have free will.
-
-A less pragmatic way of defining free will is that it is completly disconnected from the rest of the world, this is esentially the same as saying free will is magic. Magic cant exist, and following that free will could not exist either.
+Choice and will can be described things belonging to casual systems layered ontop of the physical world. With such a description using causal layering the choices you make does have an effect on the world and things in the world would look different if you did not make the choices you made. Choices are caused by other choices and while the choices are encoded in the physical world they are not caused by the physical world. This still has the implication that choices are deterministic.
 
 **The word "I"**
 The borders around what "I" is, is not obvious and unless you specify those borders it will be impossible for you to come to a conclusion about what being free from something outside of those borders might mean. Mabye the "I" refers to the psyche, to the body, to the brain, or something larger mabye "I" or "you" is the hole world looking out from a couple of eyes located in a small part of the hole.
+
+**The word "Free"**
+The defintion of free: "able to act or be done as one wishes; not under the control of another." according to the oxford dict.
+
+A diffrent way of defining free is that a free event must not be caused by a diffrent event. But everything is caused by something in a causaly closed universe; so this is esentially like saying "free will" is magic. Magic cant exist, and from that we can from that conclude that "free will" could not exist either.
+
+A way of defining "free will" that follows the dictionary, is that it is the thing you use when you make choices that are based on a decision process that was not been manipulated by an external entity. Unless something is probing your brain and injecting signals in to it, all your decision process are your own. With this definition most humans have free will.
+
+So: In a deterministic universe (a causally closed universe) the chain of events can only happen one way. But nothing is making the events happen that way, they just happen the way they happen. Is this free? or is it not free? I think it is more reasonable to say that it is free, as nothing is making it happen a certain way. The events just unfold in whey way the "like" to unfold. But as stated earlier the answer solely depends on the definitions, as such the answer can not say anything new about the world.
 
 
 
