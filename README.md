@@ -90,14 +90,19 @@ The future is not predictable: The future of a system that has unbounded recursi
 ### Free will
 If we can have free will or not depends on how one defines free will. If one defines it as something that requires magic, it cannot exist. If one defines it as something that does not require magic it can exist.
 
-One way of describing free will in a way that it is disconects if from the somewhat prevalent idea that choices do not have causal power is a description where "choice" and "will" are described as a casual system layered ontop of the physical world. With such a description the choices you make does have an effect on the world and things in the world would look different if you did not make the choices you made.
+To answer the question "Do I have free will?", one must create definitions for "free", "will" and "I". It will be impossible to create a satisfactory answer without first doing that. 
 
-A pragmatic way of defining free will is that it is what you use when you make choices that are based on a decision process that was not been manipulated by an external entity. Unless something is probing your brain and injecting signals in to it, all your decision process are your own. With this definition most humans have free will.
+**The words "choice" or "Will"**
+The words "choice" and "will" can be described as belonging to casual systems layered ontop of the physical world. With such a description the choices you make does have an effect on the world and things in the world would look different if you did not make the choices you made. Choices are caused by other choices and while the choices are encoded in the physical world they are not caused by the physical world. This still has the implication that choices are deterministic, that can't be changed.
 
-Stemming from the previously mentioned somewhat prevalent idea that choices do not have causal power some people often argue that you did not make the choice yourself, it was a chain of events of particles that led to the choice and that chain was not in your control. This is an argument that depends on a presupposition where the human that you are is separate from the particles that encode the human that you are. This presupposition is erroneous as the particles and the human are the same thing, just different ways of describing that thing, that thing being a part of the world as a whole. There is nothing that is more free or less free in the world than the choices that a human makes, the choices simply are what they are just like everything else in the world is what it is. If one says a that a choice is not free, then there must be some definition of something that is free. But if nothing can be free then free means nothing.
 
-To answer the question "Do I have free will?", one must create definitions for "free", "will" and "I". It will be impossible to create a satisfactory answer without first doing that. The borders around the "I" are not obvious and unless you specify those first it will be impossible for you to come to a conclusion about what being free from something outside of those borders might mean.
+**The word "Free"**
+A pragmatic way of defining "free will" is that it is the thing you use when you make choices that are based on a decision process that was not been manipulated by an external entity. Unless something is probing your brain and injecting signals in to it, all your decision process are your own. With this definition most humans have free will.
 
+A less pragmatic way of defining free will is that it is completly disconnected from the rest of the world, this is esentially the same as saying free will is magic. Magic cant exist, and following that free will could not exist either.
+
+**The word "I"**
+The borders around what "I" is, is not obvious and unless you specify those borders it will be impossible for you to come to a conclusion about what being free from something outside of those borders might mean. Mabye the "I" refers to the psyche, to the body, to the brain, or something larger mabye "I" or "you" is the hole world looking out from a couple of eyes located in a small part of the hole.
 
 
 
