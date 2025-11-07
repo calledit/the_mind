@@ -35,7 +35,11 @@ Following is a example of the shaping of the perceptual world model in the conte
 
 
 ### Perceiver
-The self aware conscious **perceiver**, it perceives things and it knows that it perceives things. It believes it exists in something. What it actually exists in is the **perceptual world model**.
+The self-aware conscious **perceiver** perceives things and knows that it perceives things. It believes it exists in something. What it actually exists in is the **perceptual world model**.
+
+The brain maintains a world model — **the perceptual world model** — a model of the environment from which it receives sensory input. To make this model better at modelling the world, it must also include a representation of the system doing the modelling (itself), because its own movements and actions change what it perceives.
+
+That self-representation is what we call the **perceiver**. It is the model modelling itself as the one who perceives. The **perceiver** is not something separate from the **perceptual world model**; it is the model describing itself as the thing that sees and experiences. The **perceiver** is not an additional entity but a virtual construct inside the model, instantiated when the model includes a description of its own modelling process.
 
 ### World as presented
 This is what the **perceiver** see and experience, in a sense it is a slice/a small part of the **perceptual world model**. You see a table, you see a human and so on. This is what a naive mind will describe as "reality", see [Naïve realism](https://en.wikipedia.org/wiki/Naïve_realism).
