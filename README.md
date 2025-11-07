@@ -57,7 +57,7 @@ The world as the human consciousness perceives it is a representation manufactur
 
 ## Basic assumptions/definitions for proper understanding
 1. ***Everything*** is a model. You are a model, the things you see with your perception are models that your unconscious uses to grasp the world, math is a model, numbers are models, contexts/perspectives/categories/groups/objects/systems are models, the air is a model, words are models... its models all the way up, and all the way down. 
-2. Truth, is only valid within the model that it is defined in. See [Gödel's incompleteness theorem](https://en.wikipedia.org/wiki/Gödel%27s_incompleteness_theorems). (It is invalid to validate a system using the system itself.)
+2. Truth, is only valid within the model that it is defined in. It is therefor invalid to validate a system using the system itself.
 3. A model of a thing is a formula that defines/describes the things properties, and/or how it behaves. A model can be consistent(ie the model is consistent with itself) or inconsistent(it contradicts itself). All models have validity, validity is a property that describes how well the model models the thing it is modelling(basically how accurate the models is).
 4. So a model is a structure that defines relations and properties, a “model” in this definitional sense is not only an imitation of something else it is the thing itself. To state it again: everything that exists, exists as models interacting with other models.
 
@@ -90,6 +90,9 @@ It follows from these points that everything that you can think of is a descript
 
 ### The future
 The future is not predictable: The future of a system that has unbounded recursion is not possible to predict to 100% without doing the recursion in some way. In math this recursion is referd to as [Impredicativity](https://en.wikipedia.org/wiki/Impredicativity). The system that is the universe contains unbounded recursion and can as such not be predicted. ie The things in the universe has to be simulated to the end of the outcome for the outcome to become known. A process outside of the universe that is analysing the system that is the universe has to run the universe forward in some way to know where it is going. So while it might be true that the universe is deterministic, the only way to know where it will end up is by watching where it will go. i.e you cant know where the universe is going before having looked at the end result of where the universe went. This is not saying that one can not use statistics to compute probablitys for where the universe will end up. But due to the wastnes and chaoticness of the universe such statistics break down rather quickly. 
+
+### Gödel’s incompleteness theorem
+Gödel’s incompleteness theorem is often presented as showing that any sufficiently complex formal system is incomplete. Within the model based framework that this page describes, that interpretation is not supported. Gödel’s construction attempts to describe the truth of a system as a hole from within the same system. Since truth is only valid within the system it is defined in, such self-descriptive statements are invalid. The theorem itself is an example of why self-validation is impossible.
 
 ### Free will
 If we can have free will or not depends on how one defines free will. If one defines it as something that requires magic, it cannot exist. If one defines it as something that does not require magic it can exist.
