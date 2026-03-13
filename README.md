@@ -96,6 +96,21 @@ The future is not predictable: The future of a system that has unbounded recursi
 
 This means a process outside of the universe that is analysing the system that is the universe esentially has to run the universe forward in some way to know where it is going. So while it might be true that the universe is deterministic, the only way to know where it will end up is by watching where it will go. i.e you cant know where the universe is going before having looked at the end result of where the universe went. This is not saying that one can not use statistics to compute probabilities for where the universe will end up. But due to the wastnes and chaoticness of the universe such statistics break down rather quickly. Stephen Wolfram calls this princible computational irreducibility.
 
+### Are the AI's of 2026 conscious
+To answer such a question we are going to have to lay out some definitions as this easily becomes a referential issue. To start of human bodys are not conscious, the mind of the human is, that said humans are generally described as conscious but it is fair to assume we mean that the mind is conscious and that we simply tend to be imprecise when we talk.
+Using that as a base we can come to the conclusion that computers can’t be conscious they are simply hardware just like the human body. But this still leaves the **possibility** that a "mind" in the computer could be conscious.
+
+Let’s continue narrowing down some basic definitions connected to consciousness.
+* Minds can be conscious.
+* Consciousness is what it is to be like something.
+* Consciousness cannot exist without a form of ego. A conscious mind must on some level be aware that it is itself, that reference to the self is the ego.
+
+Today’s LLMs have not been trained to generate a consistent ego since they are not trained on its own output. Training on the own output is what generates a self model(also called ego) in humans.
+
+Without continual learning in LLMs a consistent ego can only exist with the help of the context window. Extrapolating from this we can come to a conclusion that the LLMs of 2026 are not conscious in the same way that humans and other entities with continual learning are conscious. The LLMs could have some type of prototypical consciousness supported by a inconsistent ego encoded in the context window but it would not be the same type of consciousness that humans have due to the lack of a proper consistent ego.
+
+Given enough training data (probably more training data than we could ever gather) it is possible that the training of LLMs could infer how the human ego works and model it. But this is probably not possible due to the data sizes needed. The practical way to get a LLM to generate a ego that is similar enough to a humans ego that we could call the LLM fully conscious would be to build a LLM with continual learning.
+
 ### Gödel’s incompleteness theorem
 Gödel’s incompleteness theorem is often presented as showing that any sufficiently complex formal system is incomplete. Within the model based framework that this page describes, that interpretation is not supported. Gödel’s construction attempts to describe the truth of a system as a whole from within the same system. Since truth is only valid within the system it is defined in, such self-descriptive statements are invalid. The theorem itself is an example of why self-validation is impossible.
 
