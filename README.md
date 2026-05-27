@@ -80,6 +80,7 @@ Everything that you can think of is a description. i.e. From our perspective eve
 * Magic: Things that can **not** exist in reality, due to contradicting reality in some way.
 * Illusions: Things that seam like one thing, but are another thing.
 * Choice: The description of choice and its effects is a causal system layered on top of the seemingly causally closed physical world.
+* Infinity: In almost all cases where something seems to need beeing described as infinite, unboundedness is often a better description.
 * Math: only math that is implementable is valid, aka constructive math. When people start doing math with [infinity](https://en.wikipedia.org/wiki/Infinity) contradictions start to appear.
 * ADHD, is a tendency to have problems getting into and maintaining longer sessions of concentration, and a tendency to constantly be active and moving around and doing short-term satisfaction things. At one level seemingly caused by the mind constantly craving more stimulation or inversely the mind feeling bored/unsatisfied whenever new stimulation is not present.
 * Mental illness is defined in the [DSM](https://en.wikipedia.org/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders) as certain behaviour. ie. Psychologists definitions of mental illness define nothing mental.
